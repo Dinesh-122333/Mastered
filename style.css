@@ -1,0 +1,22 @@
+.nav-bg{
+    background-color:black;
+}
+.navbar-nav .nav-link {
+    color: rgb(255, 199, 96) !important;
+}
+.navbar-brand {
+    color: orange !important;
+}
+.primary-color{
+    color:rgb(255, 180, 40)
+}
+
+.secondary-color{
+    color:rgb(255, 225, 169)
+}
+.primary-font {
+    font-family: "Calistoga", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
